@@ -14,7 +14,7 @@
                 <br/>
             <center>
                     <button type="submit" name="submit"class="btn btn-primary">Sign in</button>
-                    <p><a href='?controller=blogger&action=register'>Register</a></p> 
+                    
             </center>
             </form>
             </div>
